@@ -3,7 +3,7 @@
 
 Este proyecto está diseñado para la descarga, preprocesamiento, limpieza, análisis y visualización de un conjunto de datos de radiografías de tórax extraídas de Kaggle. El objetivo principal es preparar y balancear un pipeline de datos optimizado para el entrenamiento posterior de modelos de Inteligencia Artificial orientados al diagnóstico médico automatizado de Neumonía.
 
-## 📌 Estructura del Proyecto
+## Estructura del Proyecto
 
 El flujo de trabajo implementado en el entorno de desarrollo se divide en cuatro etapas principales:
 
@@ -14,7 +14,7 @@ El flujo de trabajo implementado en el entorno de desarrollo se divide en cuatro
 
 ---
 
-## 🛠️ Requisitos e Instalación
+## Requisitos e Instalación
 
 El proyecto está desarrollado en **Python 3** y requiere las siguientes dependencias clave:
 
@@ -26,7 +26,7 @@ pip install kagglehub pandas pillow matplotlib seaborn
 
 ---
 
-## 🚀 Guía de Ejecución Paso a Paso
+## Guía de Ejecución Paso a Paso
 
 ### 1. Descarga del Dataset
 
@@ -73,7 +73,7 @@ Utilizando `matplotlib` y `seaborn`, el script genera un reporte agregando los t
 
 ---
 
-## 📊 Resultados Esperados en el Análisis
+## Resultados Esperados en el Análisis
 
 Al ejecutar la fase final, el entorno generará:
 
@@ -84,7 +84,7 @@ Al ejecutar la fase final, el entorno generará:
 
 ---
 
-## 📂 Estructura General del Proyecto
+## Estructura General del Proyecto
 
 ```text
 Proyecto/
@@ -107,7 +107,7 @@ Proyecto/
 
 ---
 
-## 🎯 Objetivo del Proyecto
+## Objetivo del Proyecto
 
 Desarrollar un pipeline completo de procesamiento y análisis de imágenes médicas que permita:
 
@@ -119,7 +119,7 @@ Desarrollar un pipeline completo de procesamiento y análisis de imágenes médi
 
 ---
 
-## 🛡️ Licencia y Créditos
+## Licencia y Créditos
 
 **Dataset Original:**  
 Chest X-Ray Images (Pneumonia) por Paul Mooney — Licencia CC BY 4.0.
